@@ -16,8 +16,8 @@ const Hero = () => {
           className="absolute left-[-5px] top-[-30px] w-10 lg:w-[50px] "
         />
         <h1 className="bold-52 lg:bold-88 z-20">We're here for you</h1>
-        <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">
-         Lorem ipsum dolor sit amet consectetur adipisicing elit. aesentium error ea delectus corporis minima, vero tempora! Quae et temporibus accusamus libero!
+        <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px] text-justify text-justify-last">
+        Sahara is a unified volunteer management system that uses SMS and AI to ensure rapid, coordinated responses to emergencies, even in areas with low connectivity.
         </p>
 
         <div className="my-11 flex flex-wrap gap-5">

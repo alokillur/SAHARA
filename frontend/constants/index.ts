@@ -10,32 +10,32 @@ export const NAV_LINKS = [
 
 export const FEATURES = [
   {
-    title: 'put something on maps offile',
+    title: 'GeoSpatial Analytics',
     icon: '/map.svg',
     variant: 'green',
     description:
-      'vuhbybi hg67f6rf f5d3s4df67yh 8ygxrectvb btrfede5g7y ttbun byvretb btbyby rr5tbybunuyn ybtrdededed rfde4d45rf6g6tg7 yh7yhyhyhyg6tgt',
+      'Integrating Geospatial analytics, our volunteer management system will ensure a more coordinated, responsive, and effective approach to managing emergencies.',
   },
   {
-    title: 'hc something about date and timeschedule',
+    title: 'Categorized Solutions',
     icon: '/calendar.svg',
     variant: 'green',
     description:
-      "ybiu i i9unoun c5rxxwxzx ubnjnoi okpom hbyub hububhui uhuhuh9h 9h9h89h89h9 uyugyuv guyfuyyu giugiguh uyfytfyuui trddtyygi 8guhu9hh 9h9h9j0jojx",
+      "Categorizing emergencies effectively, we can enhance coordination, optimize resource allocation, and improve overall response effectiveness, ultimately contributing to a more resilient and responsive community",
   },
   {
-    title: 'buddy system tech for volunteers',
+    title: 'Buddy System',
     icon: '/tech.svg',
     variant: 'green',
     description:
-      'hgvhu hu ubib j yctyvyu ygyubybyv ugy iguhion ferytyb byjhybhyby gve vtg rtvrt vrtewtt vt4tetw vrtwrwtv btryrtyrtuyu svrtsby nsysys snysn ihjiji0 ',
+      'The buddy system is a strategic approach to enhancing emergency response efforts by pairing individuals for mutual support and accountability. In our unified volunteer management system, the buddy system is designed to improve coordination, ensure safety, and increase the overall effectiveness of emergency interventions',
   },
   {
-    title: 'here about location offline sending things',
+    title: 'Offline Communication',
     icon: '/location.svg',
     variant: 'orange',
     description:
-      'uhvhubh iubuini yhiunio cr5dr6f7y uyfytgoioi uyyugiu hbhbby uhybyvr vrdetfyun tfrrtyhuj yrfr5frgyh uhy7gyhuji ygrfrfr5f redede dg ',
+      'Communication is a critical component of our unified volunteer management system, especially in regions with limited or unreliable internet connectivity. It ensures that communication and coordination continue even when traditional online channels are unavailable.',
   },
 ];
 

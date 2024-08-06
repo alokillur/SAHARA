@@ -11,7 +11,7 @@ const Guide = () => {
         </p>
         <div className="flex flex-wrap justify-between gap-5 lg:gap-10">
           <h2 className="bold-40 lg:bold-64 xl:max-w-[390px]">Guide You to Easy Path</h2>
-          <p className="regular-16 text-gray-30 xl:max-w-[520px]">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum maiores nobis ipsam doloribus dolores enim saepe, consequatur voluptas voluptate id eum obcaecati, cupiditate consequuntur reiciendis neque magnam delectus? Nesciunt, velit?</p>
+          <p className="regular-16 text-gray-30 xl:max-w-[520px] mt-20 text-justify text-justify-last">Integrating real-time SMS communication, AI-driven volunteer matching, and geospatial analysis, our app ensures swift, coordinated, and effective responses to diverse crises, enhancing community resilience and reducing the impact of emergencies.</p>
         </div>
       </div>
     </section>

@@ -21,7 +21,7 @@ const Features = () => {
             
             <h2 className="bold-40 lg:bold-64 z-30">Our Features</h2>
           </div>
-          <ul className="mt-10 grid gap-10 md:grid-cols-2 lg:mg-20 lg:gap-20">
+          <ul className="mt-10 grid gap-10 md:grid-cols-2 lg:mg-20 lg:gap-20 text-justify text-justify-last">
             {FEATURES.map((feature) => (
               <FeatureItem 
                 key={feature.title}
